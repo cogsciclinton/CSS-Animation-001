@@ -40,6 +40,7 @@ div {
     transform: rotate(180deg);
   }
 }
+
 @-moz-keyframes s2c {
   0%  {
     border-radius: 0 0 0 0;
@@ -67,6 +68,7 @@ div {
     transform: rotate(180deg);
   }
 }
+
 @-ms-keyframes s2c {
   0%  {
     border-radius: 0 0 0 0;
@@ -94,6 +96,7 @@ div {
     transform: rotate(180deg);
   }
 }
+
 @-o-keyframes s2c {
   0%  {
     border-radius: 0 0 0 0;
@@ -121,6 +124,7 @@ div {
     transform: rotate(180deg);
   }
 }
+
 @keyframes s2c {
   0%  {
     border-radius: 0 0 0 0;
